@@ -2,6 +2,9 @@
 body
 {
     margin: 0px 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width:2000px;
+    
 }
 .head
 {
@@ -13,48 +16,13 @@ body
     padding: 5px;
     letter-spacing: 20px;
 }
-.timeline
+.table1
 {
-    width: 1000px;
-    margin-left:550px;
-    margin-right: 40px;
+    margin-left: 520px;
     margin-top: 30px;
-}
-.quotation
-{
-    padding: 5px;
-}
-.date
-{
-    padding: 5px;
-}
-.quoted
-{
-    padding: 5px;
-
-}
-.printed
-{
-    padding: 5px;
+    border: 0;
 }
 
-.to 
-{
-    padding: 5px;
-
-}
-.name{
-    padding: 5px; 
-     
-
-}
-.add{
-    padding: 5px;
-
-}
-.phone{
-    padding: 5px;
-}
 .information
 {
     text-align: center;
