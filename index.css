@@ -1,0 +1,117 @@
+
+body
+{
+    margin: 0px 250px;
+}
+.head
+{
+    background-color: black;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    letter-spacing: 20px;
+}
+.timeline
+{
+    width: 1000px;
+    margin-left:550px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+.quotation
+{
+    padding: 5px;
+}
+.date
+{
+    padding: 5px;
+}
+.quoted
+{
+    padding: 5px;
+
+}
+.printed
+{
+    padding: 5px;
+}
+
+.to 
+{
+    padding: 5px;
+
+}
+.name{
+    padding: 5px; 
+     
+
+}
+.add{
+    padding: 5px;
+
+}
+.phone{
+    padding: 5px;
+}
+.information
+{
+    text-align: center;
+    padding: 40px;
+
+}
+.table
+{
+    margin-top: 1px;
+}
+#table-first
+{
+    width: 30px;
+    padding: 6px;
+    
+
+}
+ #table-name{
+     width: 190px;
+     text-align: center; 
+ }
+ #description{
+     width: 550px;
+     text-align: center; 
+ }
+ #price
+ {
+    width: 300px;
+    text-align: center; 
+ }
+ .title
+ {
+     background-color: gray;
+ }
+ #price1
+ {
+    text-align: right;
+ }
+ #price2{
+    text-align: right;
+ }
+ #price3{
+    text-align: right;
+ }
+ #price4{
+    text-align: right;
+ }
+ .total-sub
+ {
+     text-align: right;
+ }
+ .applied{
+     text-align: right;
+ }
+ .tax{
+     text-align: right;
+ }
+ .net{
+     text-align: right;
+ }
