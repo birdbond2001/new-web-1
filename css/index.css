@@ -74,29 +74,9 @@
  {
      background-color: gray;
  }
- #price1
+ .pric
  {
     text-align: right;
  }
- #price2{
-    text-align: right;
- }
- #price3{
-    text-align: right;
- }
- #price4{
-    text-align: right;
- }
- .total-sub
- {
-     text-align: right;
- }
- .applied{
-     text-align: right;
- }
- .tax{
-     text-align: right;
- }
- .net{
-     text-align: right;
- }
+ 
+ 
